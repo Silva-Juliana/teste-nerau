@@ -1,0 +1,289 @@
+body {
+    margin: 0px;
+}
+
+.photo_header {
+    background-image: url(images/imgHeader.png);
+    height: 765px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.container_dad {
+    background-color: #3286C3;
+    height: 547px;
+}
+
+.img_logo {
+    width: 9%;
+    justify-content: space-between;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+li {
+    display: inline;
+    margin-right: 45px;
+    margin-top: 11px;
+    font-size: 16px;
+    font-family: PT Sans;
+}
+
+.container_menu {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.menu_get {
+    background-color: white;
+    padding: 17px 20px;
+    border-radius: 40px;
+    color: #317CAA;
+    font-family: Averta;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    white-space: nowrap;
+
+}
+
+.menu_language {
+    border-width: thin;
+    border-style: solid;
+    border-color: #c1bbbb;
+    padding: 10px 14px;
+    font-size: 12px;
+    white-space: nowrap;
+}
+
+.img_verde{
+    margin-left: 8px;
+    margin-bottom: 2px;
+}
+
+.degrade_header{
+    background: linear-gradient(180deg, #050626 0%, rgb(0 0 0) 21.83%, rgb(0 1 4) 45.62%, rgb(0 0 0) 57.12%);
+
+}
+
+.box_blue {
+    background-color: #3286C3;
+    display: flex;
+    width: 100%;
+    padding-bottom: 115px;
+}
+
+.texts {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-top: 48px;
+}
+
+
+h1 {
+    margin: 0;
+    font-size: 1.9em;
+    color: white;
+    display: flex;
+    margin-right: 76px;
+    max-width: 332px;
+}
+
+.description {
+    font-size: 15px;
+    width: 40%;
+    letter-spacing: 0.03em;
+    margin-right: 112px;
+    max-width: 219px;
+}
+
+.conheçaIpsum {
+    padding: 0px 30px 5px 30px;
+    background: #2E7BB2;
+    border-radius: 8px;
+    color: white;
+}
+
+.conheçaIpsum2 {
+    justify-items: center;
+    display: grid;
+    justify-content: center; 
+    margin-top: 37px; 
+}
+
+.three_images {
+    position: relative;
+    top: -93px;
+}
+.box_images {
+    display: flex;
+    justify-content: center;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.unitary {
+    width: 100%;
+}
+
+.information {
+    width: 33%;
+    max-width: 314px;
+}
+
+.image_vetor {
+    width: 31%;
+    position: absolute;
+}
+
+.vetor {
+    display: flex;
+    top: -27px;
+    margin-left: 18px;
+    position: relative;
+}
+
+
+.happy {
+    margin-left: 98px;
+    margin-top: 21px;
+    color: #6A6A57;
+    letter-spacing: 0.03em;
+    font-size: 16px;
+}
+
+.sport_h1 {
+    color: #FF5E0F;
+    font-size: 30px;
+    letter-spacing: 0.03em;
+    font-family: PT Sans;
+    width: 100%;
+    display: flex;
+}
+
+.sport_P {
+    color: #4F4F40;
+    display: flex;
+}
+
+.Ipsum_branco {
+    position: absolute;
+    width: 100%;
+    padding-top: 77px;
+}
+
+.energy {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+
+.container_energy{
+    margin-left: 27px;
+    margin-right: 24px;
+    max-width: 354px;
+}
+
+
+.correndo {
+    width: 100%;
+    max-width: 461px;
+    min-width: 300px;
+}
+
+.Ipsum_branco {
+    width: 100%;
+    max-width: 461px;
+    min-width: 300px;
+}
+
+.play_orange {
+    margin: 24px;
+    width: 13px;
+}
+.button_orange {
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    background-color: #FF5E0F;
+    border-radius: 50px;
+    box-shadow: 0px 22px 80px rgba(29, 27, 24, 0.07), 0px 22.2437px 55.4997px rgba(29, 27, 24, 0.0771599), 0px 23.2607px 48.4373px rgba(29, 27, 24, 0.0756864), 0px 24.6609px 44.6163px rgba(29, 27, 24, 0.0644444), 0px 25.9607px 41.3692px rgba(29, 27, 24, 0.0443511), 0px 26.3799px 36.8572px rgba(29, 27, 24, 0.0210201), 0px 24.0804px 28.1652px rgba(29, 27, 24, 0.00397918);
+    bottom: 0;
+    margin: auto;
+    left: -35px;
+    top: 0;
+}
+
+.energy2 {
+    margin-left: 37px;
+    position: relative;
+}
+
+.saibaMais {
+    background-color: #FF5E0F;
+    padding: 14px 29px;
+    border-radius: 40px;
+    position: absolute;
+}
+
+.alimentos_naturais {
+    display: flex;
+    margin-top: 158px;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    max-height: 453px;
+}
+
+.fibra {
+    width: 100%;
+    max-width: 495px;
+}
+
+.h2_fibras {
+    color: #FFBF3F;
+    width: 100%;
+    font-size: 34px;
+    font-family: Averta;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.P_fibras {
+    font-family: PT Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #6A6A57;
+    width: 100%;
+    margin-bottom: 36px;
+    margin-top: -17px;
+
+}
+
+.text_alimentos {
+    width: 100%;
+    max-width: 399px;
+    margin-left: 28px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.button_yellow {
+    background: #FFBF3F;
+    border-radius: 40px;
+    padding: 16px 26px;
+    max-width: max-content;
+
+}
